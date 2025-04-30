@@ -1,5 +1,4 @@
 # Multimodal Data Collection — Robot-Assisted Surgery  
-> *DSA Fall 2025 – Peg Transfer (Raven vs TrakStar)*  
 
 Hello Professor / PhD 👋  
 
