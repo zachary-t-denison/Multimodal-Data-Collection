@@ -23,16 +23,3 @@ Before you run any code, **add the raw-data folder as a Drive shortcut**:
 > *GPU/TPU availability on Colab fluctuates; evenings (~9 pm) tend to give the best hardware.*
 
 ---
-
-## Local setup
-
-```bash
-# 1 – clone our repo and pull the large files via Git LFS
-git clone https://github.com/YourOrg/peg-transfer.git
-cd peg-transfer
-git lfs install
-git lfs pull
-
-# 2 – create env
-conda env create -f environment.yml          # or: pip install -r requirements.txt
-conda activate raven-trakstar
