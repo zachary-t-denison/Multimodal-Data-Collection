@@ -5,7 +5,7 @@ Hello Professor / PhD 👋
 
 Before you run any code, **add the raw-data folder as a Drive shortcut**:
 
-1. Open <https://drive.google.com/drive/folders/15xZ_yFUGSWpyW_fx_ec6IfNK-I2PiuMm?usp=sharing>  
+1. Open <https://drive.google.com/drive/folders/1o4cQxVECPM1cNhsV3zzpBtEfMhhzUYH3>  
 2. Click **Organize → Add shortcut → My Drive**
 
 ---
