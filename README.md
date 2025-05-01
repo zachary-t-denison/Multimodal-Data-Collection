@@ -1,6 +1,6 @@
 # Multimodal Data Collection — Robot-Assisted Surgery  
 
-Hello Professor / PhD 👋  
+Hello Professor / PhD student 👋  
 
 Before you run any code, **add the raw-data folder as a Drive shortcut**:
 
